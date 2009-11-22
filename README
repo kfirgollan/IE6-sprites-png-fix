@@ -1,2 +1,8 @@
-Please note that ie6sprites.js is still in alpha mode.
-At the moment jQuery is required.
+[IE6 Sprites]
+================================
+
+Notes
+---------------------------------------
+* ie6sprites.js is still in alpha mode.
+* jQuery is required.
+* currently you are required to fill in the data on the sprites images (location, width, height)
